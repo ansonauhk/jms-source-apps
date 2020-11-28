@@ -1,0 +1,1 @@
+= Spring Cloud Stream Jms Source Rabbit Binder Application
